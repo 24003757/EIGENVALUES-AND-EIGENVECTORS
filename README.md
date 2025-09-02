@@ -18,6 +18,7 @@ Step 4:
 End the program.
 
 ## Program:
+```
 #Program to find the eigen values and eigen vectors.
 #Developed by: Vinolia Alaina .R
 #RegisterNumber:
@@ -29,7 +30,7 @@ A = np.array([[2,-3,0],[2,-5,0],[0,0,3]])
 eigenvalues, eigenvectors = np.linalg.eig(A)
 
 print(f"Eigen values are {eigenvalues} and Eigen Vectors are {eigenvectors}")
-
+```
 ## Output:
 <img width="1370" height="912" alt="image" src="https://github.com/user-attachments/assets/a6ef590a-7d7d-4643-8e30-c2c419e9e544" />
 
